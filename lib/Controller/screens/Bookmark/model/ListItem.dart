@@ -1,0 +1,8 @@
+class ListItem {
+  final String title;
+  final String description;
+  final String urlImage;
+
+  ListItem( {
+    required this.title,required this.description, required this.urlImage});
+}
